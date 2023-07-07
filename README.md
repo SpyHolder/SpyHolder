@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I+Am+A+Software+Engineer;I+Am+A+Android+Developer;I+May+Be+A+Human" alt="Typing SVG" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/mohd.ikhsan sadillah" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohd.ikhsan sadillah"/></a>&nbsp;&nbsp;<a href="https://instagram.com/_m_ikhsan_s_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_m_ikhsan_s_"/></a>&nbsp;&nbsp;<a href="mailto:ikhsansadillah@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ikhsan Sadillah"/></a>
+<a href="www.linkedin.com/in/ikhsansadillah-217058223" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohd.ikhsan sadillah"/></a>&nbsp;&nbsp;<a href="https://instagram.com/_m_ikhsan_s_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_m_ikhsan_s_"/></a>&nbsp;&nbsp;<a href="mailto:ikhsansadillah@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ikhsan Sadillah"/></a>
 </p>
 
 <br/>
