@@ -74,7 +74,7 @@
     <img align="left" alt="Spyholder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spyholder&show_icons=true&theme=tokyonight&rank_icon=github"/>
    <img align="center" alt="SpyHolder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyholder&layout=compact&theme=tokyonight#gh-dark-mode-only" height="190px"/>
   </p>
-<img align="center" alt="SpyHolder's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark" />
+<img align="center" alt="SpyHolder's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SpyHolder&theme=react-dark" />
 
 </details>
 <img align=right src="https://komarev.com/ghpvc/?username=spyholder&label=Github+Views&color=lightgrey&style=for-the-badge">
