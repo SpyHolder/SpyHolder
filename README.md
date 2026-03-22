@@ -4,7 +4,7 @@
     <h1 align="center">Hi 👋, I'm Ikhsan</h1>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I+Am+A+Software+Engineer;I+Am+A+Android+Developer;I+May+Be+A+Human" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I+Am+A+Software+Engineer;I+Am+A+Android+Developer;I+May+Be+A+Human;I+Am+A+Vibe+Coder" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ikhsansadillah" target="blank">
@@ -26,15 +26,15 @@
 
 <p align="center" > <img src="https://raw.githubusercontent.com/SpyHolder/SpyHolder/master/asset/tY5.gif" alt="hello"/> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **How To Using AI for Vibe Coding**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpyHolder](https://github.com/SpyHolder)
 
-- 💬 Ask me about **Java or C#**
+- 💬 Don't ask me about **Programming Language**
 
 - 📫 How to reach me **ikhsansadillah@gmail.com**
 
-- ⚡ Fun fact **I like coffe and evening**
+- ⚡ Fun fact **I like coffee and evening** (I Am The Batman)
 
 <h2>🛠️ My Experience Programming</h2>
 <table align="center">
